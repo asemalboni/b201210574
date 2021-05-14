@@ -1,0 +1,109 @@
+.container {
+    background: rgb(149, 149, 168);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.button button{
+    border-radius: 10px;
+    color: rgb(121, 66, 66);
+
+   
+}
+.button button:hover{
+
+background: rgb(64, 190, 81);
+
+}
+
+
+.anasayfa {
+    
+    padding-top: 15px;
+    margin: 0px;
+    font-size: 22px;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+.container-fluid {
+    background-color: rgb(121, 66, 66);
+    padding-top: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+  
+}
+
+
+.bölüm {
+    border: none;
+    border-top: 7px solid black ;
+
+}
+
+
+.etkinlik {
+    background: rgb(64, 218, 64);
+    height: 70vh;
+
+}
+
+
+.card {
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    height: 300px;
+    float: left;
+}
+
+
+.hobiler {
+    background: grey;
+    height: 70vh;
+
+}
+
+
+.özgecmis {
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+
+}
+
+
+.gezi {
+    
+    height: 600px;
+    border-radius: 20px;
+}
+
+
+.sehrim {
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    background: rgb(64, 190, 81);
+}
+
+
+.bilgi {
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    background: grey;
+
+}
+
+
+.yemek {
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    background: rgb(64, 190, 81);
+}
+
+.yerler {
+
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    background: grey;
+
+
+}
